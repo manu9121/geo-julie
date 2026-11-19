@@ -225,7 +225,7 @@ function openSummary() {
 function openFlashcards() {
 
     document.getElementById("flashcardSection")
-        .classList.toggle("hidden");
+        .classList.remove("hidden");
 
 }
 
