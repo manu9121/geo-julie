@@ -218,7 +218,7 @@ function restartQuiz() {
 function openSummary() {
 
     document.getElementById("summarySection")
-        .classList.toggle("hidden");
+        .classList.remove("hidden");
 
 }
 
