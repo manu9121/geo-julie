@@ -21,7 +21,7 @@
   },
   {
     "question":"Quels sont les 5 océans ?",
-    "answer":"Pacifique, Atlantique, Indien, Glacial Arctique, Glacial Antarctique."
+    "answer":"Pacifique, Atlantique, Indien, Glacial Arctique et Glacial Antarctique."
   },
   {
     "question":"Qu'est-ce que l'équateur ?",
@@ -45,4 +45,58 @@
   },
   {
     "question":"Qu'est-ce qu'un méridien ?",
-    "answer":"Un demi-cercle imaginaire reliant les
+    "answer":"Un demi-cercle imaginaire reliant les deux pôles."
+  },
+  {
+    "question":"Qu'est-ce que le méridien de Greenwich ?",
+    "answer":"Le méridien de référence situé à 0° de longitude."
+  },
+  {
+    "question":"Qu'est-ce que la longitude ?",
+    "answer":"La position par rapport au méridien de Greenwich, exprimée en degrés Est ou Ouest."
+  },
+  {
+    "question":"Entre quelles valeurs varie la longitude ?",
+    "answer":"Entre 0° et 180°."
+  },
+  {
+    "question":"Qu'est-ce qu'une coordonnée géographique ?",
+    "answer":"L'association d'une latitude et d'une longitude."
+  },
+  {
+    "question":"Pourquoi les coordonnées sont-elles utiles ?",
+    "answer":"Elles permettent d'identifier précisément un lieu sur Terre."
+  },
+  {
+    "question":"Qu'est-ce que l'altitude ?",
+    "answer":"La hauteur d'un lieu par rapport au niveau de la mer."
+  },
+  {
+    "question":"Quelle projection est conforme ?",
+    "answer":"La projection de Mercator."
+  },
+  {
+    "question":"Que conserve une projection conforme ?",
+    "answer":"Les angles et les formes."
+  },
+  {
+    "question":"Quel est l'inconvénient principal de Mercator ?",
+    "answer":"Elle exagère les surfaces proches des pôles."
+  },
+  {
+    "question":"Que conserve une projection équivalente ?",
+    "answer":"Les surfaces et les tailles relatives."
+  },
+  {
+    "question":"Quelle projection réduit les biais culturels ?",
+    "answer":"La projection de Fuller."
+  },
+  {
+    "question":"Qu'est-ce qu'une carte topographique ?",
+    "answer":"Une carte utilisée principalement pour se repérer dans un espace réel."
+  },
+  {
+    "question":"Qu'est-ce qu'une carte thématique ?",
+    "answer":"Une carte qui représente un phénomène ou des données."
+  }
+]
